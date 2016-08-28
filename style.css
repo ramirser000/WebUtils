@@ -1,0 +1,17 @@
+.circle-caption-image h1{
+  top: 15%;
+  margin-left: 25%;
+
+}
+
+.circle-caption-image h3{
+  top: 50%;
+  padding: 3% 10% 30% 10%;
+}
+
+.circle-caption-image{
+  height: 200px;
+  margin-right: 20px;
+}
+
+/* end caption-image */

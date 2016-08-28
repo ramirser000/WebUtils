@@ -1,0 +1,17 @@
+.circle-caption-image h1, .circle-caption-image h2, .circle-caption-image h3, .circle-caption-image h4, .circle-caption-image h5, .circle-caption-image h6, .circle-caption-image p {
+  background-color: rgba(255, 214, 0, 0.9);
+  color: #002E6D;
+  position: absolute;
+  text-align: center;
+}
+.circle-caption-image {
+  background: url("sample_image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 100%;
+  border: 3px solid #FFD600;
+  overflow: hidden;
+  float: left;
+  min-height: 150px;
+}
